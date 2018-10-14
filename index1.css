@@ -9,11 +9,10 @@ img{max-width:100%;vertical-align:middle;border:0;height:auto;}
 body{background:#eaeaea;margin:0;padding:0;font-family:&#39;Lato&#39;,Verdana,Arial,Sans-serif;color:#616161;font-size:15px;line-height:20px}
 #wrapper {background:#FFF;width:100%;max-width: 900px;overflow: hidden;margin: 0 auto;padding: 0 25px 25px 25px;}
 #header-wrapper{height:80px;margin:0 auto;padding:10px 0;overflow:hidden;width:100%;background:#fff}
-#header1{float: left;width: 300px;margin:0 auto;padding:10px 0;}
+#header1{float: left;width: 800px;margin:0 auto;padding:10px 0;}
 #header1 img,#header-inner img{width:auto;max-width:100%}
 #header-inner h1,#header-inner img, #header1 h1,#header-inner h2,#header1 h2, #header-inner .title{font:normal normal 30px Oswald,&quot;Arial Narrow&quot;,Sans-Serif;margin:0;padding:0;color:#333;text-transform:uppercase}
 #header-inner h1 a,#header-inner .title a{color:#333}
-#header2{float:right;width:468px;margin:5px;padding:0;}
 #main-wrapper{float:left;width:63%;overflow:hidden;margin-bottom: 20px;}
 .post-header {margin: 15px 0;padding: 5px 0 10px;border-bottom: 1px solid #e6e6e6;font-size:90%;}
 #sidebar-wrapper{float:right;width:300px;overflow:hidden}
