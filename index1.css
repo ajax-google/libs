@@ -128,3 +128,4 @@ body{background:#eaeaea;margin:0;padding:0;font-family:&#39;Lato&#39;,Verdana,Ar
 .scroll a:visited{color:#D43838}
 blockquote {margin:1em;border-left: 4px solid #E5E5E5;background: #f9f9f9;padding: 1em;font-size:95%;}
 .post-title {line-height: normal;}
+.post-body h3,.post h3 {padding: 12px 0px;margin: 15px 0px;border-top: 1px dashed #CCC;border-bottom: 1px dashed #CCC;font-family: inherit;font-weight: 700;}
