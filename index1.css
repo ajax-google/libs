@@ -4,12 +4,9 @@ a:link,a:visited{color:#48d;text-decoration:none;margin-left:0px;margin-right:0p
 a:hover {color:#c00}
 a img{border-width:0;}
 img{max-width:100%;vertical-align:middle;border:0;height:auto;}
-.quickedit{display:none;}
+.post-location,.author-profile,.post-labels,.post-header,.post-header-line-1,.quickedit{height:0;visibility:hidden;display:none;}
 .clear{clear:both;}
 #post-header{display:none;}
-.post-header{display:none;}
-.post-author vcard{display:none;}
-#post-author vcard{display:none;}
 body{background:#eaeaea;margin:0;padding:0;font-family:&#39;Lato&#39;,Verdana,Arial,Sans-serif;color:#616161;font-size:15px;line-height:20px}
 #wrapper {background:#FFF;width:100%;max-width: 900px;overflow: hidden;margin: 0 auto;padding: 0 25px 25px 25px;}
 #header-wrapper{height:80px;margin:0 auto;padding:10px 0;overflow:hidden;width:100%;background:#fff}
